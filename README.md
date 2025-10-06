@@ -9,3 +9,7 @@
 # 📂 Dataset Information
 
 ###   Source: Kaggle – miadul/brain-tumor-dataset
+
+
+#### File used: brain_tumor_dataset.csv
+#### Records: 20,000 rows × 19 columns
