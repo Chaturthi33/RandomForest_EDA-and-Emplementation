@@ -47,7 +47,7 @@
 
 #####  .Mapped target:
 
-#### 📈 Visual Summary
+## 📈 Visual Summary
                     
  ### 🔹 Bar chart	        
  ### 🔹 Pie chart             
