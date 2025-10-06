@@ -14,3 +14,14 @@
 #### File used: brain_tumor_dataset.csv
 #### Records: 20,000 rows × 19 columns
 
+
+#### Data Preprocessing
+
+#####  Checked for missing values → none found
+
+#####  Checked for duplicates → none found
+
+#####  Label encoding applied to categorical columns:
+
+#####  Gender, Location, Histology, Stage, Symptoms, Treatments, etc. 
+       Mapped target:
