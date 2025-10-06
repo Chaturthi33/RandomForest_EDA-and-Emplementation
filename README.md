@@ -14,6 +14,26 @@
 #### File used: brain_tumor_dataset.csv
 #### Records: 20,000 rows × 19 columns
 
+### 🧾 Columns Description
+     Feature	Description
+     Patient_ID	Unique ID per patient
+     Age	Patient age
+     Gender	Male/Female
+     Tumor_Type	Benign or Malignant
+     Tumor_Size	Tumor size (cm³)
+     Location	Brain region (Frontal, Temporal, Parietal, Occipital)
+     Histology	Tumor cell type
+     Stage	Stage I–IV
+     Symptom_1/2/3	Reported symptoms
+     Radiation_Treatment	Yes/No
+     Surgery_Performed	Yes/No
+     Chemotherapy	Yes/No
+     Survival_Rate	Patient survival likelihood
+     Tumor_Growth_Rate	Growth velocity
+     Family_History	Yes/No
+     MRI_Result	Target variable (Positive=1, Negative=0)
+     Follow_Up_Required	Yes/No
+
 
 #### Data Preprocessing
 
