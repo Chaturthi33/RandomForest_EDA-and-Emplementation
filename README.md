@@ -46,3 +46,18 @@
 #####  .Gender, Location, Histology, Stage, Symptoms, Treatments, etc.
 
 #####  .Mapped target:
+
+#### 📈 Visual Summary
+      Chart	                Description
+🔹 Bar chart	           Histology vs Patient Count
+🔹 Pie chart             Tumor Type Distribution
+🔹 Histogram	          Survival Rate
+🔹 Correlation heatmap   Feature relationships
+
+
+
+
+
+
+
+
