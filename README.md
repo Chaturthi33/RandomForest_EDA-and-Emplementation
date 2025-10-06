@@ -1,5 +1,8 @@
-# RandomForest_EDA-and-Emplementation
+# Brain Tumor Detection — ML Classification Project
 
-## What is Random Forest?
-## Random Forest is a powerful and popular ensemble machine learning algorithm used for both classification and regression tasks.
+## 📘 Overview
+
+### This project uses the Brain Tumor Dataset from Kaggle to analyze patient data and build machine learning models that classify tumor MRI results (Positive/Negative).
+### The dataset is processed, visualized, and modeled using Python (pandas, sklearn, seaborn, matplotlib).
+### Final model achieved 100% accuracy with Logistic Regression (after encoding and scaling).
 
