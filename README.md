@@ -6,3 +6,6 @@
 ### The dataset is processed, visualized, and modeled using Python (pandas, sklearn, seaborn, matplotlib).
 ### Final model achieved 100% accuracy with Logistic Regression (after encoding and scaling).
 
+# 📂 Dataset Information
+
+###   Source: Kaggle – miadul/brain-tumor-dataset
