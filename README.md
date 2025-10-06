@@ -17,11 +17,12 @@
 
 #### Data Preprocessing
 
-#####  Checked for missing values → none found
+#####  .Checked for missing values → none found
 
-#####  Checked for duplicates → none found
+#####  .Checked for duplicates → none found
 
-#####  Label encoding applied to categorical columns:
+#####  .Label encoding applied to categorical columns:
 
-#####  Gender, Location, Histology, Stage, Symptoms, Treatments, etc. 
-####   Mapped target:
+#####  .Gender, Location, Histology, Stage, Symptoms, Treatments, etc.
+
+####   .Mapped target:
