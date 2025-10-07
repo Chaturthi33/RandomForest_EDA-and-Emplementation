@@ -4,7 +4,6 @@
 
 ### This project uses the Brain Tumor Dataset from Kaggle to analyze patient data and build machine learning models that classify tumor MRI results (Positive/Negative).
 ### The dataset is processed, visualized, and modeled using Python (pandas, sklearn, seaborn, matplotlib).
-### Final model achieved 100% accuracy with Logistic Regression (after encoding and scaling).
 
 # 📂 Dataset Information
 
@@ -54,9 +53,11 @@
  ### 🔹 Histogram	         
  ### 🔹 Correlation heatmap 
 
+### ⚙️ Requirements
+##### pip install pandas numpy seaborn matplotlib scikit-learn kagglehub
 
-
-
+## 📘 Model Overview
+#### The Random Forest Classifier is a supervised machine learning algorithm used in this project to predict whether a patient’s brain tumor MRI result is Positive (1) or Negative (0) based on various clinical and imaging features.
 
 
 
